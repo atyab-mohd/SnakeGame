@@ -8,7 +8,6 @@ public class SnakeGame extends JFrame {
         setResizable(false);
         pack();
         setLocationRelativeTo(null);
-//        setBounds(100, 100, 800, 500);
         setVisible(true);
     }
     public static void main(String[] args){
